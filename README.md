@@ -45,7 +45,7 @@ python3 01_hello_world.py
 
 ## Progress
 
-- [x] Part 1
+- [x] Part 1 - 02.09.2026
 - [ ] Part 2
 - [ ] Part 3
 - [ ] Part 4
