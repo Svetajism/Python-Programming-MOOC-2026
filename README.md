@@ -47,7 +47,7 @@ python3 01_hello_world.py
 
 - [x] Part 1 - 02.09.2026
 - [x] Part 2 - 05.09.2026
-- [ ] Part 3
+- [x] Part 3 - 06.10.2026
 - [ ] Part 4
 - [ ] Part 5
 - [ ] Part 6
