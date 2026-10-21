@@ -48,7 +48,7 @@ python3 01_hello_world.py
 - [x] Part 1 - 02.09.2026
 - [x] Part 2 - 05.09.2026
 - [x] Part 3 - 06.10.2026
-- [ ] Part 4
+- [x] Part 4 - 20.10.2026
 - [ ] Part 5
 - [ ] Part 6
 - [ ] Part 7 — *Introduction to Programming complete*
