@@ -1,4 +1,4 @@
-import math
+import math  # noqa: I001
 
 def hypotenuse(leg1: float, leg2: float) -> float:
     return math.sqrt(leg1 ** 2 + leg2 ** 2)

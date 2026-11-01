@@ -1,6 +1,7 @@
 import random
 import string
 
+
 def generate_password(length: int):
     password = ""
     for i in range(length):
