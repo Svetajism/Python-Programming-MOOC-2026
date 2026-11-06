@@ -52,7 +52,7 @@ python3 01_hello_world.py
 - [ ] Part 5
 - [ ] Part 6
 - [ ] Part 7 — *Introduction to Programming complete*
-- [ ] Part 8
+- [x] Part 8 - 06.11.2026
 - [ ] Part 9
 - [ ] Part 10
 - [ ] Part 11
