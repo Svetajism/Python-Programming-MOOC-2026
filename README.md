@@ -50,10 +50,11 @@ python3 01_hello_world.py
 - [x] Part 3 - 06.10.2026
 - [x] Part 4 - 20.10.2026
 - [x] Part 5 - 12.11.2026
-- [ ] Part 6
-- [ ] Part 7 — *Introduction to Programming complete*
+- [~] Part 6 - in progress (6 / 19)
+- [~] Part 7 — in progress (5 / 18)
+*Introduction to Programming complete*
 - [x] Part 8 - 06.11.2026
-- [ ] Part 9
+- [~] Part 9 - in progress (5 / 15)
 - [ ] Part 10
 - [ ] Part 11
 - [ ] Part 12
